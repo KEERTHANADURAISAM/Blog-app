@@ -1,0 +1,1 @@
+why we craete components-code reusabilty,ensure the abilty of code -easy write unit test ,and easy maintainability
